@@ -5,5 +5,5 @@ import { defineConfig } from "vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "https://denis-springinsfeld.github.io/SR-CREA/",
+  base: "https://denis-springinsfeld.github.io/S5-CREA/",
 });
